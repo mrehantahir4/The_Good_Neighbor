@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83362777571",
+    "project_id": "goodneighbor-44ad4",
+    "storage_bucket": "goodneighbor-44ad4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83362777571:android:c13168604fb241130078d6",
+        "android_client_info": {
+          "package_name": "com.goodneighbor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTL2FWNzF6TpHK7NbXqPKlns5CR0C6sY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
